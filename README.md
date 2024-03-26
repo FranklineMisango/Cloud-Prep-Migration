@@ -1,4 +1,4 @@
-1[](image.png)
+[](image.png)
 
 This project is the second part of the IoT Data Migration series using AWS CDK. The first
 project uses an AWS IoT device Simulator to replicate an On-Premise Data Center
